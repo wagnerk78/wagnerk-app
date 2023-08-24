@@ -9,13 +9,13 @@ const Section3 = () => {
         <div class='principal'>
             <div>
                 <div class='sombra'> <img class="images-middle" src={parceiros} alt='parceiros' /> </div>
-                <div><h1>Parceiros</h1></div>
+                <div><h1 class='text-14'>Parceiros</h1></div>
                 <div class="text-middle"> Lorem ipsum dolor sit amet, consectetur </div>
                 <button class="button-parceiro">CONFIRA</button>
             </div>
             <div>
                 <div class='sombra'> <img class="images-middle" src={parceiros} alt='parceiros' /> </div>
-                <div><h1>Parceiros</h1></div>
+                <div><h1 class='text-14'>Parceiros</h1></div>
                 <div class="text-middle"> Lorem ipsum dolor sit amet, consectetur </div>
                 <button class="button-parceiro">CONFIRA</button>
             </div>
@@ -27,13 +27,13 @@ const Section3 = () => {
            <div class='principal'>
            <div>
                <div class='sombra'> <img class="images-middle" src={produtos} alt='produtos' /> </div>
-               <div><h1>Produtos</h1></div>
+               <div><h1 class='text-14'>Produtos</h1></div>
                <div class="text-middle"> Lorem ipsum dolor sit amet, consectetur </div>
                <button class="button-parceiro">CONFIRA</button>
            </div>
            <div>
                <div class='sombra'> <img class="images-middle" src={produtos} alt='produtos' /> </div>
-               <div><h1>Produtos</h1></div>
+               <div><h1 class='text-14'>Produtos</h1></div>
                <div class="text-middle"> Lorem ipsum dolor sit amet, consectetur </div>
                <button class="button-parceiro">CONFIRA</button>
            </div>

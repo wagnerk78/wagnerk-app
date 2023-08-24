@@ -74,5 +74,5 @@ position: absolute;
 font-size: 30px;
 color: #F71963;
 margin-left: 545px;
-margin-top: 975px;
+margin-top: 20px;
 `
