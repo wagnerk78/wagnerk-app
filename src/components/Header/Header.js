@@ -32,7 +32,7 @@ const Header = () => {
             <div class='header-middle'>
                 <div> <img id="logo" src={logo} alt='logo' /> </div>
                 <div id="input-all">
-                    <input placeholder='O que está buscando ?'></input>
+                    <input placeholder='O que está buscando?'></input>
                     <div> <img id="glass" src={glass} alt='glass' /> </div>
                 </div>
                 <div> <img class="images-fast" src={vector} alt='account' /> </div>
